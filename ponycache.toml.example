@@ -1,0 +1,15 @@
+[default]
+ttl = 0
+
+[redis]
+addr = "127.0.0.1:6379"
+passwd = ""
+db = 0 
+
+[storage]
+access_key = "KEY"
+secret_key = "KEY"
+region = "eu-central-1"
+token = ""
+bucket = "ponycache01"
+endpoint = ""
